@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ferotiq
-- 👀 I’m interested in Discord.js, Discord, Node.js, JavaScript
+- 👀 I’m interested in Discord.js, Node.js, JavaScript, TypeScript
 - 📫 How to reach me: [My Website](https://www.ferotiq.dev/), [My YouTube](https://youtube.ferotiq.dev/), [My Discord](https://discord.ferotiq.dev/)
